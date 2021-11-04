@@ -1,6 +1,6 @@
 name : testing
 env  :
-  APPLICATION_NAME    : "MyFlask
+  APPLICATION_NAME    : "MyFlask"
   DEPLOY_PACKAGE_NAME : "flask-deply-ver-${{ github.sha}}"
 
 on : 
