@@ -9,8 +9,8 @@ on :
     - master
     
 jobs:
-  testing :
-  runs-on : ubuntu-latest
+runs-on   : ubuntu-latest
+ testing  :  
 
   steps   :
   - name  : Print Hello message in testing
